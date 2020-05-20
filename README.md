@@ -1,2 +1,0 @@
-# libraryBackendWithReact
-Created with CodeSandbox
